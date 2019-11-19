@@ -2,7 +2,7 @@ HOW_TO_SPHINX_AND_DDD
 =====================
 
 | basically documents, easily test.
-| Provide sphinx documents at https://codenamenadja.github.io/python-documentation/docs/index.html
+| Provide sphinx documents at https://codenamenadja.github.io/python-ddd/index.html
 
 INDEX
 =====
