@@ -42,9 +42,11 @@ how to docstring
 ...     :return: return will be...
 ...     :rtype: bool
 ...     """
+
     - using type annotation can less documentation.
     - and nice to work with type based testing(mypy).
 - with type annotations
+
 >>> import typing
 ... def test_view(arg1: int, arg2: int, callback: typing.Callable) -> bool:
 ...     """Sample view to manage somthing.
@@ -57,6 +59,7 @@ how to docstring
 ... 
 ...     :return: dependant to callback work.
 ...     """
+
     - can reduce 4~5 lines with typings
 
 sphinx setting
