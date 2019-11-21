@@ -21,3 +21,5 @@ help:
 github:
 	@make html
 	@cp -a build/html/. ../docs
+test:
+	@sphinx-build -b doctest source build
